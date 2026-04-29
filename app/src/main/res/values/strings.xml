@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Automation Helper</string>
+    <string name="accessibility_service_label">Automation Helper</string>
+    <string name="accessibility_service_summary">UI automation testing helper</string>
+    <string name="accessibility_service_description">Lets the Automation Helper app perform taps, swipes, and text input on other apps so you can drive UI tests on your own apps. You can disable this at any time from this settings screen.</string>
+
+    <string name="btn_enable_accessibility">1. Enable Accessibility</string>
+    <string name="btn_grant_overlay">2. Grant Overlay Permission</string>
+    <string name="btn_start_bubble">3. Start Bubble</string>
+    <string name="btn_stop_bubble">Stop Bubble</string>
+    <string name="btn_run">Run Script</string>
+    <string name="btn_close">Close</string>
+
+    <string name="script_label">Script:</string>
+    <string name="script_hint">type commands, one per line — e.g. tap \"Login\"</string>
+    <string name="output_label">Output:</string>
+    <string name="command_hint">command…</string>
+
+    <string name="bubble_description">Automation bubble</string>
+</resources>
